@@ -17,7 +17,7 @@
 
 
 12 : 419, 68, 31, 54, 0  : Zoro standing 1
-13 : 419, 68, 31, 54, 0  : Zoro standing 2
+13 : 419, 68, 31, 54, 1  : Zoro standing 2
 14 : 419, 68, 31, 54, 0  : Zoro standing 3
 
 

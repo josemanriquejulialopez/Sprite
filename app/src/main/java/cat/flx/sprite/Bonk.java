@@ -7,7 +7,7 @@ class Bonk extends Character {
     private boolean jumping, willJump;
 
     private static final int[][] states = {
-            { 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 14, 14, 14, 13, 13 }, // 0: standing by
+            { 12, 12, 12, 12, 12, 12, 12, 12, 12,12, 12, 12, 12, 13, 13 ,13, 13, 13, 13 ,13, 13, 13, 13 ,13, 13, 13 }, // 0: standing by
             { 6, 7, 8, 9, 54, 55 },  // 1: walking left
             { 0, 1, 2, 3, 52, 53 },  // 2: walking right
             { 47, 48, 49, 50, 51, 50, 49, 48 }, // 3: dead
