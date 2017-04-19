@@ -1,22 +1,29 @@
-0  : 0, 66, 24, 32, 0    : Bonk walking right 1
-1  : 32, 66, 24, 32, 0   : Bonk walking right 2
-2  : 63, 66, 24, 32, 0   : Bonk walking right 3
-3  : 93, 66, 24, 32, 0   : Bonk walking right 4
-4  : 405, 66, 28, 32, 0  : Bonk jumping right
-5  : 163, 60, 24, 32, 0  : Bonk falling right
-6  : 0, 66, 24, 32, 1    : Bonk walking left 1
-7  : 32, 66, 24, 32, 1   : Bonk walking left 2
-8  : 63, 66, 24, 32, 1   : Bonk walking left 3
-9  : 93, 66, 24, 32, 1   : Bonk walking left 4
-10 : 405, 66, 28, 32, 1  : Bonk jumping left
-11 : 163, 60, 24, 32, 1  : Bonk falling left
+0  : 0, 0, 31, 54, 1    : Zoro walking right 1
+1  : 33, 0, 31, 54, 1   : Zoro walking right 2
+2  : 69, 0, 31, 54, 1   : Zoro walking right 3
+3  : 105, 0, 31, 54, 1   : Zoro walking right 4
+52  : 144, 0, 31, 54, 1   : Zoro walking right 5
+53  : 180, 0, 31, 54, 1   : Zoro walking right 6
+4  : 405, 66, 28, 32, 0  : Zoro jumping right
+5  : 163, 60, 24, 32, 0  : Zoro falling right
+6  : 0, 0, 31, 54, 0    : Zoro walking left 1
+7  : 33, 0, 31, 54, 0   : Zoro walking left 2
+8  : 69, 0, 31, 54, 0   : Zoro walking left 3
+9  : 105, 0, 31, 54, 0   : Zoro walking left 4
+54  : 144, 0, 31, 54, 0   : Zoro walking right 5
+55  : 180, 0, 31, 54, 0   : Zoro walking right 6
+10 : 405, 66, 28, 32, 1  : Zoro jumping left
+11 : 163, 60, 24, 32, 1  : Zoro falling left
 
 
+12 : 419, 68, 31, 54, 0  : Zoro standing 1
+13 : 419, 68, 31, 54, 0  : Zoro standing 2
+14 : 419, 68, 31, 54, 0  : Zoro standing 3
 
-12 : 419, 68, 31, 56, 0  : Bonk standing 1
-13 : 419, 68, 31, 56, 0  : Bonk standing 2
-14 : 419, 68, 31, 56, 0  : Bonk standing 3
-15 : 0, 256, 28, 32, 0   : Bonk jumping/falling front
+
+15 : 0, 256, 28, 32, 0   : Zoro jumping/falling front
+
+
 16 : 80, 265, 32, 30, 0  : Enemy up 1
 17 : 120, 265, 32, 30, 0 : Enemy up 2
 18 : 162, 265, 32, 30, 0 : Enemy down 1
@@ -50,8 +57,8 @@
 45 : 412, 332, 16, 16, 0 : Ground center		#
 46 : 428, 332, 16, 16, 0 : Ground right			]
 
-47 : 0, 212, 32, 32, 0   : Bonk dying 1
-48 : 37, 212, 28, 32, 0  : Bonk dying 2
-49 : 71, 212, 28, 32, 0  : Bonk dying 3
-50 : 107, 212, 28, 32, 0 : Bonk dying 4
-51 : 140, 212, 28, 32, 0 : Bonk dying 5
+47 : 0, 60, 50, 60, 0   : Zoro dying 1
+48 : 50, 60, 45, 60, 0  : Zoro dying 2
+49 : 95, 60, 45, 60, 0  : Zoro dying 3
+50 : 145, 60, 55, 60, 0 : Zoro dying 4
+51 : 205, 60, 75, 60, 0 : Zoro dying 5

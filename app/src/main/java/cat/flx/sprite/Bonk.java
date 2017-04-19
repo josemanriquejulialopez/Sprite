@@ -8,8 +8,8 @@ class Bonk extends Character {
 
     private static final int[][] states = {
             { 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 14, 14, 14, 13, 13 }, // 0: standing by
-            { 6, 7, 8, 9 },  // 1: walking left
-            { 0, 1, 2, 3 },  // 2: walking right
+            { 6, 7, 8, 9, 54, 55 },  // 1: walking left
+            { 0, 1, 2, 3, 52, 53 },  // 2: walking right
             { 47, 48, 49, 50, 51, 50, 49, 48 }, // 3: dead
             { 10 }, // 4: Jumping left
             { 4 }, // 5: Jumping right
